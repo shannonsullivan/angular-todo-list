@@ -1,4 +1,4 @@
-# TodoList
+# Todo List
 
 Angular todo list implementing components to scale using flexible architecture with practicing correct Angular patterns. 
 
