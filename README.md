@@ -1,6 +1,6 @@
 # Todo List
 
-Angular todo list implementing components to scale using flexible architecture with practicing correct Angular patterns. 
+Angular todo list implementing components to scale app using flexible architecture and practicing correct Angular patterns. 
 
 Used RxJs as core component to simplify using data streams.
 
